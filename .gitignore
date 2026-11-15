@@ -5,3 +5,14 @@ data_raw.json
 data_raw2.json
 лендинг_крюки_100.csv
 лендинг_крюки_100.md
+landings/
+img/
+img_meta.json
+fetch_photos.js
+fix_index.js
+fix_moika.js
+fix_photos.js
+письма_10_компаниям.md
+data_raw*.json
+build*.js
+лендинг_*
