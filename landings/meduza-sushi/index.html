@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Медуза Суши — Суши и роллы в Челябинске</title>
+<meta name="description" content="Медуза Суши — Суши и роллы в Челябинске, Краснопольский проспект, 1. Официальный сайт, телефоны и запись.">
+<style>
+:root{--c:#0e7490;--c2:#22d3ee;}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:#1f2937;background:#fafafa;line-height:1.6}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;z-index:9;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);box-shadow:0 1px 0 rgba(0,0,0,.06)}
+header .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.05rem;color:#111}
+.logo span.mark{width:36px;height:36px;border-radius:10px;background:var(--c);color:#fff;display:grid;place-items:center;font-size:1.1rem}
+nav a{margin-left:18px;text-decoration:none;color:#374151;font-weight:600;font-size:.92rem}
+nav a:hover{color:var(--c)}
+.hero{background:linear-gradient(135deg,#062a35 0%,#0b3d4d 55%,#0e7490 140%);color:#fff;padding:84px 0 96px;position:relative;overflow:hidden}
+.hero::after{content:'';position:absolute;inset:auto -10% -60% auto;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.14),transparent 65%)}
+.hero .wrap{position:relative;z-index:1}
+.kicker{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);padding:6px 14px;border-radius:999px;font-size:.85rem;font-weight:600;margin-bottom:22px}
+h1{font-size:clamp(1.9rem,5vw,3.2rem);line-height:1.15;font-weight:800;max-width:640px}
+.hero p.sub{margin:18px 0 30px;font-size:clamp(1rem,2.4vw,1.2rem);max-width:560px;color:rgba(255,255,255,.88)}
+.cta-row{display:flex;gap:14px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 26px;border-radius:12px;font-weight:700;text-decoration:none;font-size:1rem;transition:.2s}
+.btn.primary{background:#fff;color:#111;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.btn.primary:hover{transform:translateY(-2px)}
+.btn.ghost{color:#fff;border:1.5px solid rgba(255,255,255,.5)}
+.btn.ghost:hover{background:rgba(255,255,255,.1)}
+.stats{display:flex;gap:36px;flex-wrap:wrap;margin-top:44px}
+.stat b{font-size:1.7rem;display:block;line-height:1.2}
+.stat span{font-size:.85rem;color:rgba(255,255,255,.75)}
+section{padding:72px 0}
+h2{font-size:clamp(1.5rem,3.5vw,2.1rem);font-weight:800;color:#111;margin-bottom:10px}
+.section-sub{color:#6b7280;margin-bottom:40px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px}
+.card{background:#fff;border-radius:18px;padding:28px;box-shadow:0 2px 14px rgba(17,24,39,.06);border:1px solid #f1f1f4;transition:.2s}
+.card:hover{transform:translateY(-4px);box-shadow:0 12px 28px rgba(17,24,39,.1)}
+.card .ico{width:52px;height:52px;border-radius:14px;background:color-mix(in srgb,var(--c) 12%,white);display:grid;place-items:center;font-size:1.5rem;margin-bottom:16px}
+.card h3{font-size:1.1rem;margin-bottom:8px;color:#111}
+.card p{color:#6b7280;font-size:.95rem}
+.rating-band{background:linear-gradient(135deg,#062a35 0%,#0b3d4d 55%,#0e7490 140%);color:#fff;border-radius:24px;padding:44px 40px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}
+.rating-band .score{font-size:3.2rem;font-weight:800;line-height:1}
+.rating-band .stars{color:#22d3ee;font-size:1.4rem;letter-spacing:3px}
+.rating-band p{color:rgba(255,255,255,.85);max-width:480px}
+.contact{background:#fff;border:1px solid #f1f1f4;border-radius:24px;padding:40px;display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.contact h3{margin-bottom:14px;color:#111;font-size:1.2rem}
+.contact a.row{display:flex;align-items:center;gap:12px;padding:10px 0;color:#111;text-decoration:none;font-weight:600}
+.contact a.row:hover{color:var(--c)}
+.contact .note{grid-column:1/-1;color:#6b7280;font-size:.9rem;border-top:1px solid #f3f3f6;padding-top:18px}
+footer{background:#0f1115;color:#9ca3af;padding:36px 0;font-size:.88rem}
+footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+footer a{color:#d1d5db;text-decoration:none}
+@media(max-width:760px){.contact{grid-template-columns:1fr}.rating-band{padding:32px 24px}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="logo"><span class="mark">🍣</span>Медуза Суши</div>
+  <nav><a href="#about">О нас</a><a href="#reviews">Отзывы</a><a href="#contact">Контакты</a></nav>
+</div></header>
+
+<div class="hero"><div class="wrap">
+  <span class="kicker">⭐ 4.8 · 861 отзывов на 2ГИС</span>
+  <h1>Суши, которые заказывают снова</h1>
+  <p class="sub">Свежие роллы и авторские сеты от команды «Медуза Суши». Краснопольский проспект, 1 — доставка и самовывоз.</p>
+  <div class="cta-row">
+    <a class="btn primary" href="tel:+">📞 Позвонить: +79191233276</a>
+    <a class="btn ghost" href="#contact">Как нас найти</a>
+  </div>
+  <div class="stats">
+    <div class="stat"><b>4.8</b><span>рейтинг из 5</span></div>
+    <div class="stat"><b>861</b><span>отзывов клиентов</span></div>
+    <div class="stat"><b>Челябинск</b><span>Краснопольский проспект, 1</span></div>
+  </div>
+</div></div>
+
+<section id="about"><div class="wrap">
+  <h2>Почему выбирают нас</h2>
+  <p class="section-sub">Суши и роллы в Челябинске — то, что мы делаем каждый день.</p>
+  <div class="cards">
+    <div class="card"><div class="ico">✅</div><h3>Свежая рыба и честные составы</h3><p>Свежая рыба и честные составы</p></div>
+    <div class="card"><div class="ico">⭐</div><h3>Сеты для компании от 2 до 8 человек</h3><p>Сеты для компании от 2 до 8 человек</p></div>
+    <div class="card"><div class="ico">💬</div><h3>Доставка по городу и самовывоз</h3><p>Доставка по городу и самовывоз</p></div>
+  </div>
+</div></section>
+
+<section id="reviews"><div class="wrap">
+  <div class="rating-band">
+    <div><div class="score">4.8<span style="font-size:1.4rem;opacity:.6">/5</span></div>
+    <div class="stars">★★★★★</div></div>
+    <p>Наши клиенты уже оставили <b>861</b> отзывов на 2ГИС. Каждая оценка — это чей-то день, который мы сделали лучше. Присоединяйтесь!</p>
+    <a class="btn primary" href="https://2gis.ru/chelyabinsk/firm/70000001040187579" target="_blank" rel="noopener">Смотреть отзывы в 2ГИС</a>
+  </div>
+</div></section>
+
+<section id="contact"><div class="wrap">
+  <h2>Контакты</h2>
+  <p class="section-sub">Мы всегда на связи — звоните или приходите.</p>
+  <div class="contact">
+    <div>
+      <h3>📞 Связь</h3>
+      <a class="row" href="tel:+">+79191233276</a>
+      <a class="row" href="mailto:v.meduza@yandex.ru">✉️ v.meduza@yandex.ru</a>
+    </div>
+    <div>
+      <h3>📍 Адрес</h3>
+      <a class="row" href="https://2gis.ru/chelyabinsk/firm/70000001040187579" target="_blank" rel="noopener">🗺️ Краснопольский проспект, 1</a>
+      <a class="row" href="https://2gis.ru/chelyabinsk/firm/70000001040187579" target="_blank" rel="noopener">Построить маршрут →</a>
+    </div>
+    <div class="note">Это демонстрационная страница, собранная как образец оформления по открытым данным карточки организации в 2ГИС.</div>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <div>© 2026 Медуза Суши</div>
+  <div><a href="https://2gis.ru/chelyabinsk/firm/70000001040187579" target="_blank" rel="noopener">Карточка в 2ГИС</a></div>
+</div></footer>
+</body>
+</html>
