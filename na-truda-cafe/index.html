@@ -32,6 +32,7 @@ nav a:hover{color:var(--c2)}
 .kicker b{color:var(--c2)}
 h1{font-family:'Unbounded';font-size:clamp(1.8rem,4.8vw,3.1rem);line-height:1.18;font-weight:800;max-width:680px;letter-spacing:-.5px}
 .hero p.sub{margin:20px 0 32px;font-size:clamp(1rem,2.2vw,1.16rem);max-width:560px;color:rgba(255,255,255,.85)}
+.hook2{margin:-18px 0 26px;font-size:clamp(1rem,2.4vw,1.22rem);font-weight:800;color:var(--c2);max-width:600px}
 .cta-row{display:flex;gap:14px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:10px;padding:15px 28px;border-radius:14px;font-weight:800;text-decoration:none;font-size:1rem;transition:.22s}
 .btn.primary{background:var(--c);color:#1c0d05;box-shadow:0 10px 30px color-mix(in srgb,var(--c) 45%,transparent)}
@@ -61,6 +62,25 @@ h2{font-family:'Unbounded';font-size:clamp(1.45rem,3.2vw,2rem);font-weight:700;c
 .ph img{width:100%;height:100%;object-fit:cover;filter:saturate(1.1) contrast(1.05);transition:.5s}
 .ph:hover img{transform:scale(1.06)}
 .ph::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,rgba(0,0,0,.35));pointer-events:none}
+/* menu */
+.m-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.m-card{background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 2px 14px rgba(10,15,30,.06);border:1px solid #eef0f4;transition:.22s;cursor:zoom-in}
+.m-card:hover{transform:translateY(-5px);box-shadow:0 16px 34px rgba(10,15,30,.12)}
+.m-card img{width:100%;aspect-ratio:16/10;object-fit:cover;filter:saturate(1.1) contrast(1.05);display:block;transition:.5s}
+.m-card:hover img{transform:scale(1.05)}
+.m-body{padding:20px 22px 24px}
+.m-body h3{font-family:'Unbounded';font-weight:500;font-size:1.02rem;color:var(--base);margin-bottom:6px}
+.m-body p{color:#6b7280;font-size:.92rem}
+.m-note{margin-top:24px;color:#8a9099;font-size:.85rem}
+/* lightbox */
+.lb{position:fixed;inset:0;z-index:100;background:rgba(4,8,12,.94);display:none;align-items:center;justify-content:center;flex-direction:column;padding:34px}
+.lb.open{display:flex}
+.lb img{max-width:92vw;max-height:82vh;border-radius:14px;box-shadow:0 24px 80px rgba(0,0,0,.6)}
+.lb .cap{margin-top:14px;color:rgba(255,255,255,.75);font-size:.9rem;text-align:center;max-width:80vw}
+.lb .x{position:absolute;top:18px;right:26px;font-size:2rem;color:#fff;cursor:pointer;line-height:1}
+.lb .nav{position:absolute;top:50%;transform:translateY(-50%);font-size:2.6rem;color:#fff;cursor:pointer;padding:20px;user-select:none;opacity:.75}
+.lb .nav:hover{opacity:1}
+.lb .prev{left:6px}.lb .next{right:6px}
 .band{background:var(--base);border-radius:28px;padding:52px 46px;display:flex;align-items:center;justify-content:space-between;gap:26px;flex-wrap:wrap;color:#fff;position:relative;overflow:hidden}
 .band::before{content:'';position:absolute;inset:-40% -20% auto auto;width:420px;height:420px;border-radius:50%;background:radial-gradient(circle,color-mix(in srgb,var(--c) 34%,transparent),transparent 68%)}
 .band .score{font-family:'Unbounded';font-size:3.4rem;font-weight:800;line-height:1}
@@ -102,6 +122,7 @@ footer a:hover{color:var(--c)}
   <div class="wrap">
     <span class="kicker">⭐ <b>4.6</b>&nbsp;·&nbsp;2781 отзывов на 2ГИС</span>
     <h1>Сытный обед в двух шагах от дела</h1>
+    
     <p class="sub">Кафе-шаурма на улице Труда, 148. Быстрый обед, свежая выпечка и кофе — без ожидания и переплат.</p>
     <div class="cta-row">
       <a class="btn primary" href="tel:+73517007001">📞 +73517007001</a>
@@ -129,11 +150,12 @@ footer a:hover{color:var(--c)}
 </div></section>
 
 
+
 <section id="gallery"><div class="wrap">
-  <h2>Атмосфера</h2>
-  <p class="section-sub">Небольшая фото-экскурсия — зайдите и посмотрите вживую.</p>
+  <h2>Атмосфера и блюда</h2>
+  <p class="section-sub">Нажмите на фото — откроется во весь экран.</p>
   <div class="ph-grid">
-      <div class="ph wide"><img src="img/na-truda-cafe_1.jpg" alt="На Труда — фото 1" loading="lazy"></div>
+      <div class="ph wide"><img src="img/na-truda-cafe_1.jpg" alt="На Труда — фото 1" loading="lazy" data-full="img/na-truda-cafe_1.jpg"></div>
   </div>
 </div></section>
 
@@ -165,6 +187,36 @@ footer a:hover{color:var(--c)}
 </div></section>
 
 <div class="sticky-cta"><a href="tel:+73517007001">📞 Позвонить: +73517007001</a></div>
+
+<div class="lb" id="lb"><span class="x" onclick="lbClose()">✕</span><span class="nav prev" onclick="lbStep(-1)">‹</span><img id="lbImg" src="" alt=""><div class="cap" id="lbCap"></div><span class="nav next" onclick="lbStep(1)">›</span></div>
+<script>
+(function(){
+  var list = Array.prototype.slice.call(document.querySelectorAll('[data-full]'));
+  var idx = 0, lb = document.getElementById('lb'), img = document.getElementById('lbImg'), cap = document.getElementById('lbCap');
+  window.lbOpen = function(el){
+    idx = list.indexOf(el);
+    img.src = el.getAttribute('data-full');
+    cap.textContent = el.getAttribute('alt') || '';
+    lb.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  };
+  window.lbClose = function(){ lb.classList.remove('open'); document.body.style.overflow = ''; };
+  window.lbStep = function(d){
+    idx = (idx + d + list.length) % list.length;
+    var el = list[idx];
+    img.src = el.getAttribute('data-full');
+    cap.textContent = el.getAttribute('alt') || '';
+  };
+  list.forEach(function(el){ el.parentElement.addEventListener('click', function(){ window.lbOpen(el); }); });
+  document.addEventListener('keydown', function(e){
+    if (!lb.classList.contains('open')) return;
+    if (e.key === 'Escape') window.lbClose();
+    if (e.key === 'ArrowLeft') window.lbStep(-1);
+    if (e.key === 'ArrowRight') window.lbStep(1);
+  });
+  lb.addEventListener('click', function(e){ if (e.target === lb) window.lbClose(); });
+})();
+</script>
 
 <footer><div class="wrap">
   <div>© 2026 На Труда, кафе №1</div>
