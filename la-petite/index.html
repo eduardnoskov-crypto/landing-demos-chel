@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>La Petite, французская пекарня — Пекарня-кофейня в Челябинске</title>
-<meta name="description" content="La Petite, французская пекарня — Пекарня-кофейня в Челябинске, улица Свободы, 66. Рейтинг 4.6★ на 2ГИС (данные на 16.11.2026). Телефоны и контакты.">
+<meta name="description" content="La Petite, французская пекарня — Пекарня-кофейня в Челябинске, улица Свободы, 66. Рейтинг 4.7★ на 2ГИС (данные на 18.11.2026). Телефоны и контакты.">
 <meta property="og:title" content="La Petite, французская пекарня — Пекарня-кофейня в Челябинске">
 <meta property="og:description" content="Кофе, круассан и немного Франции в центре Челябинска">
 <meta property="og:type" content="website">
@@ -47,7 +47,24 @@ h1{font-family:'Unbounded';font-size:clamp(1.8rem,4.8vw,3.1rem);line-height:1.18
 .stats{display:flex;gap:38px;flex-wrap:wrap;margin-top:52px}
 .stat b{font-family:'Unbounded';font-size:1.75rem;display:block;line-height:1.25}
 .stat span{font-size:.83rem;color:rgba(255,255,255,.7)}
+.hero-hours{margin-top:20px;font-weight:800;color:#fff;font-size:.98rem}
+.chips{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.chips span{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.25);border-radius:999px;padding:7px 14px;font-size:.83rem;color:rgba(255,255,255,.9)}
 .hero-caption{margin-top:26px;font-size:.8rem;color:rgba(255,255,255,.55);font-style:italic}
+/* steps */
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px;counter-reset:st}
+.step{background:#fff;border-radius:20px;padding:28px 26px;border:1px solid #eef0f4;box-shadow:0 2px 14px rgba(10,15,30,.05);position:relative;counter-increment:st}
+.step::before{content:counter(st,decimal-leading-zero);font-family:'Unbounded';font-weight:800;font-size:1.1rem;color:var(--c);display:block;margin-bottom:12px}
+.step h3{font-size:1.04rem;color:var(--base);margin-bottom:6px}
+.step p{color:#6b7280;font-size:.93rem}
+/* faq */
+.faq{display:grid;gap:12px;max-width:820px}
+.qa{background:#fff;border:1px solid #eef0f4;border-radius:16px;padding:18px 22px}
+.qa summary{cursor:pointer;font-weight:800;color:var(--base);list-style:none;display:flex;justify-content:space-between;gap:14px;align-items:center}
+.qa summary::-webkit-details-marker{display:none}
+.qa summary::after{content:'+';font-size:1.4rem;color:var(--c);line-height:1}
+.qa[open] summary::after{content:'–'}
+.qa p{margin-top:12px;color:#6b7280;font-size:.95rem}
 .marq{background:var(--c);color:#1f1005;overflow:hidden;white-space:nowrap;padding:12px 0;font-weight:800;font-size:.9rem;letter-spacing:.4px}
 .marq span{display:inline-block;animation:mq 26s linear infinite}
 .menu-badge{display:inline-block;background:color-mix(in srgb,var(--c) 12%,white);border:1px solid color-mix(in srgb,var(--c) 35%,white);border-radius:12px;padding:12px 18px;font-weight:700;font-size:.92rem;color:var(--base);margin-bottom:22px}
@@ -123,26 +140,28 @@ footer a:hover{color:var(--c)}
 <body>
 <header><div class="wrap">
   <a class="logo" href="#"><span class="mark">L</span>La Petite</a>
-  <nav><a href="#about">Преимущества</a><a href="#menu">Меню</a><a href="#gallery">Фото</a><a href="#reviews">Отзывы</a><a href="#contact">Контакты</a></nav>
+  <nav><a href="#about">Преимущества</a><a href="#menu">Меню</a><a href="#how">Как заказать</a><a href="#gallery">Фото</a><a href="#reviews">Отзывы</a><a href="#faq">Вопросы</a><a href="#contact">Контакты</a></nav>
 </div></header>
 
 <div class="hero">
   <img class="hero-photo" src="img/lapetite_5.jpg" alt="La Petite">
   <div class="veil"></div>
   <div class="wrap">
-    <span class="kicker">⭐ <b>4,6★ · 247 отзывов · 424 оценки</span>
+    <span class="kicker">⭐ <b>4,7★ · 248 отзывов · 425 оценок</span>
     <h1>Кофе, круассан и немного Франции в центре Челябинска</h1>
-    <p class="hook2">Французская пекарня-кофейня на улице Свободы, 66. Заходите к витрине — или позвоните, что уточнить.</p>
+    <p class="hook2">Французская пекарня-кофейня на улице Свободы, 66. Заходите к витрине — или позвоните, чтобы уточнить.</p>
     <p class="sub">Слоёная выпечка, десерты и кофе. Приходите за круассаном — или позвоните и уточните, что сегодня в продаже.</p>
     <div class="cta-row">
       <a class="btn primary" href="tel:+73512181001">📞 Позвонить и уточнить меню</a>
       <a class="btn ghost" href="https://2gis.ru/chelyabinsk/firm/70000001047129826">Построить маршрут</a>
     </div>
     <div class="stats">
-      <div class="stat"><b>4.6</b><span>рейтинг из 5</span></div>
-      <div class="stat"><b>247</b><span>отзывов на 2ГИС · 16.11.2026</span></div>
+      <div class="stat"><b>4,7</b><span>рейтинг из 5</span></div>
+      <div class="stat"><b>248</b><span>отзывов на 2ГИС · 18.11.2026</span></div>
       <div class="stat"><b>Челябинск</b><span>улица Свободы, 66</span></div>
     </div>
+    <div class="hero-hours">🕒 ежедневно 08:00–22:00</div>
+    <div class="chips"><span>завтраки 08:00–19:30</span><span>до 18 мест</span><span>чек ~800 ₽</span><span>детское меню</span><span>навынос и доставка</span></div>
     <div class="hero-caption">▸ Круассаны крупным планом. Фото иллюстративное — не снимок из витрины пекарни</div>
   </div>
 </div>
@@ -154,9 +173,9 @@ footer a:hover{color:var(--c)}
   <p class="section-sub">Пекарня-кофейня в Челябинске — то, что мы делаем каждый день.</p>  <div class="cards">
     <div class="card"><div class="ico">✅</div><h3>Французская пекарня</h3><p>Круассаны, выпечка и десерты во французском стиле — смотрите состав в меню ниже.</p></div>
     <div class="card"><div class="ico">⭐</div><h3>Кофе к выпечке</h3><p>La Petite — и пекарня, и кофейня: выпечку можно взять вместе с кофе.</p></div>
-    <div class="card"><div class="ico">💬</div><h3>Центр Челябинска</h3><p>улица Свободы, 66 — в паре шагов от центра. Маршрут — по кнопке в контактах.</p></div>
-    <div class="card"><div class="ico">✅</div><h3>Звонок вместо ожидания</h3><p>Уточните ассортимент по телефону +7 351 218-10-01 — и приходите к витрине.</p></div>
-    <div class="card"><div class="ico">⭐</div><h3>Оценка гостей</h3><p>4,6 из 5 на 2ГИС: 247 отзывов и 424 оценки (проверено 16.11.2026).</p></div>
+    <div class="card"><div class="ico">💬</div><h3>Центр Челябинска</h3><p>улица Свободы, 66 — ежедневно 08:00–22:00. Маршрут — по кнопке в контактах.</p></div>
+    <div class="card"><div class="ico">✅</div><h3>Завтраки до 19:30</h3><p>В карточке 2ГИС указаны завтраки 08:00–19:30 и детское меню — можно с ребёнком.</p></div>
+    <div class="card"><div class="ico">⭐</div><h3>Оценка гостей</h3><p>4,7 из 5 на 2ГИС: 248 отзывов и 425 оценок (проверено 18.11.2026).</p></div>
   </div>
 </div></section>
 
@@ -168,7 +187,7 @@ footer a:hover{color:var(--c)}
   <div class="m-grid">
     <div class="m-card"><img src="img/lapetite_1.jpg" alt="Круассан классический — иллюстративное фото" loading="lazy" data-full="img/lapetite_1.jpg"><div class="m-body"><h3>Круассан классический</h3><p>Слоёное тесто на масле: хруст снаружи, мягкий внутри</p></div></div>
     <div class="m-card"><img src="img/lapetite_2.jpg" alt="Круассан миндальный — иллюстративное фото" loading="lazy" data-full="img/lapetite_2.jpg"><div class="m-body"><h3>Круассан миндальный</h3><p>Миндальный крем, лепестки миндаля, сахарная пудра</p></div></div>
-    <div class="m-card"><img src="img/lapetite_0.jpg" alt="Круассан с лососем — иллюстративное фото" loading="lazy" data-full="img/lapetite_0.jpg"><div class="m-body"><h3>Круассан с лососем</h3><p>Слабосолёный лосось и авокадо в свежем круассане</p></div></div>
+    <div class="m-card"><img src="img/lapetite_0.jpg" alt="Круассан с лососем — иллюстративное фото" loading="lazy" data-full="img/lapetite_0.jpg"><div class="m-body"><h3>Круассан с лососем</h3><p>Слабосолёный лосось и авокадо в круассане</p></div></div>
     <div class="m-card"><img src="img/lapetite_6.jpg" alt="Ассорти мини-круассанов — иллюстративное фото" loading="lazy" data-full="img/lapetite_6.jpg"><div class="m-body"><h3>Ассорти мини-круассанов</h3><p>Набор маленьких круассанов к кофе — удобно делить</p></div></div>
     <div class="m-card"><img src="img/lapetite_7.jpg" alt="Круассан с двойным миндалём — иллюстративное фото" loading="lazy" data-full="img/lapetite_7.jpg"><div class="m-body"><h3>Круассан с двойным миндалём</h3><p>Для тех, кто любит послаще: крем и начинка вместе</p></div></div>
   </div>
@@ -184,11 +203,33 @@ footer a:hover{color:var(--c)}
   </div>
 </div></section>
 
+<section id="how"><div class="wrap">
+  <h2>Как заказать</h2>
+  <p class="section-sub">Без брони через сайт: один звонок — и столик или заказ ждут вас.</p>
+  <div class="steps">
+    <div class="step"><h3>Позвоните или зайдите</h3><p>Уточните, что сегодня в витрине, и забронируйте столик — в карточке 2ГИС указан заказ столиков.</p></div>
+    <div class="step"><h3>Выберите к кофе</h3><p>Круассан, десерт или завтрак — состав в образце меню выше, актуальный ассортимент подскажут на месте.</p></div>
+    <div class="step"><h3>Останьтесь или заберите</h3><p>До 18 мест в зале, есть навынос и доставка. Средний чек по данным 2ГИС — около 800 ₽.</p></div>
+  </div>
+</div></section>
+
+<section id="faq"><div class="wrap">
+  <h2>Вопросы и ответы</h2>
+  <p class="section-sub">Отвечаем на то, что спрашивают чаще всего. Если ответа нет — звоните.</p>
+  <div class="faq">
+    <details class="qa"><summary>Можно забронировать столик?</summary><p>Да, в карточке 2ГИС указан заказ столиков. Позвоните по телефону +7 351 218-10-01 и назовите время.</p></details>
+    <details class="qa"><summary>Есть доставка и навынос?</summary><p>Да, в карточке 2ГИС указаны доставка и заказ навынос. Зону, время и условия уточняйте по телефону.</p></details>
+    <details class="qa"><summary>Во сколько открываетесь?</summary><p>Ежедневно с 08:00 до 22:00 — по данным 2ГИС на 18.11.2026. Завтраки подают до 19:30.</p></details>
+    <details class="qa"><summary>Можно прийти с ребёнком?</summary><p>Да: в карточке указаны детское меню и доступный вход с детской коляской. В зале до 18 мест.</p></details>
+    <details class="qa"><summary>Сколько стоит завтрак?</summary><p>Средний чек по данным 2ГИС — около 800 ₽. Точные цены на позиции уточняйте по телефону или на месте.</p></details>
+  </div>
+</div></section>
+
 <section id="reviews"><div class="wrap">
   <div class="band">
-    <div><div class="score">4.6<span style="font-size:1.4rem;opacity:.55">/5</span></div>
+    <div><div class="score">4.7<span style="font-size:1.4rem;opacity:.55">/5</span></div>
     <div class="stars">★★★★★</div></div>
-    <p>По данным 2ГИС на 16.11.2026: рейтинг 4.6 из 5, 247 отзывов и 424 оценок со звёздами. Счётчики на живой карточке меняются — актуальные цифры по кнопке.</p>
+    <p>По данным 2ГИС на 18.11.2026: рейтинг 4.7 из 5, 248 отзывов и 425 оценок со звёздами. Счётчики на живой карточке меняются — актуальные цифры по кнопке.</p>
     <a class="btn primary" href="https://2gis.ru/chelyabinsk/firm/70000001047129826" target="_blank" rel="noopener">Смотреть отзывы в 2ГИС →</a>
   </div>
 </div></section>
@@ -205,6 +246,7 @@ footer a:hover{color:var(--c)}
     <div>
       <h3>📍 Адрес</h3>
       <a class="row" href="https://2gis.ru/chelyabinsk/firm/70000001047129826" target="_blank" rel="noopener">🗺️ улица Свободы, 66</a>
+      <div class="row">🕒 ежедневно 08:00–22:00</div>
       <a class="row" href="https://2gis.ru/chelyabinsk/firm/70000001047129826" target="_blank" rel="noopener">Построить маршрут в 2ГИС →</a>
     </div>
     <div class="note">Это демонстрационная страница, собранная как образец оформления по открытым данным карточки организации в 2ГИС.</div>
