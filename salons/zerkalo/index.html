@@ -69,10 +69,10 @@ nav a:hover{border-color:var(--pink)}
 .ticker span::after{content:'✦';margin-left:38px;color:var(--butter);font-size:13px}
 @keyframes tick{to{transform:translateX(-50%)}}
 .manifesto{background:var(--butter);border-bottom:2px solid var(--ink)}
-.man-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:50px;align-items:start}
+.man-grid{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:50px;align-items:start}
 .man-grid h2{font-size:clamp(42px,6.8vw,94px);line-height:.88}
 .man-grid h2 span{color:var(--pink)}
-.man-copy{padding-top:10px}
+.man-copy{min-width:0;padding-top:10px}
 .man-copy p{font-size:17px;font-weight:600;max-width:580px}
 .man-copy p+p{margin-top:14px;font-size:14px;font-weight:500;color:#544945}
 .man-copy .stats{display:flex;gap:0;border-top:2px solid var(--ink);border-left:2px solid var(--ink);margin-top:30px}
