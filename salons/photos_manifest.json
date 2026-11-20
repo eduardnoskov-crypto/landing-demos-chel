@@ -1,0 +1,250 @@
+{
+  "dom-12": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/3707366d-4da7-42a5-893a-fe413f18a419.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/team.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/5317e0ba-6316-4c19-bd74-297b650081cf.jpg",
+      "credit": "Фотография от владельца",
+      "width": 797,
+      "height": 638
+    },
+    {
+      "file": "img/blonde.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/10db3838-fc52-4854-a9f5-6ed688a69b99.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1141,
+      "height": 1400
+    },
+    {
+      "file": "img/curls.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/412a6df3-098d-433f-8ab2-15d08d3e27cf.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/bob.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/2ac8309a-5c00-4077-8ab1-76d083691b5e.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/salon.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/81c04184-50a8-4ba8-b37f-073d153697c0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/brunette.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/94926f55-d6b0-4be6-bbdb-677efb83624c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    }
+  ],
+  "biolage": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/10256cd4-98df-40bf-a3aa-85e51f401ee1.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1124,
+      "height": 1400
+    },
+    {
+      "file": "img/interior.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/92693c2b-204d-48e3-95eb-8ed080bbaebf.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1120,
+      "height": 1400
+    },
+    {
+      "file": "img/blonde.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/459067c2-14af-4af3-83ef-ec0616b23f54.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/waves.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560057304808_85f3.jpg",
+      "credit": "Фотография от пользователя",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/brows.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/1d68b4b4-43eb-4f67-aead-10c8c2ca1578.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1095
+    },
+    {
+      "file": "img/nails.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/4d4c85a5-94c5-4098-8672-9f5755b9c4a9.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1120,
+      "height": 1400
+    },
+    {
+      "file": "img/bob.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/5330db50-f70f-44b3-a279-469a8df961fc.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1400
+    }
+  ],
+  "zerkalo": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/c3061cc4-59ff-48c9-b679-6cddeed38807.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1070,
+      "height": 1280
+    },
+    {
+      "file": "img/team.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/c74a1f48-6060-47b3-afd9-69b25c1e2ac9.jpg",
+      "credit": "Фотография от владельца",
+      "width": 939,
+      "height": 1400
+    },
+    {
+      "file": "img/portrait.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/98157aaa-1e82-4a66-b43f-f50c77eb94d9.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/nails-white.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560090711143_bdb5.jpg",
+      "credit": "Фотография от пользователя",
+      "width": 1120,
+      "height": 1400
+    },
+    {
+      "file": "img/portrait2.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/6307faa1-4844-4573-8fa3-8f5551b9c396.jpg",
+      "credit": "Фотография от владельца",
+      "width": 959,
+      "height": 1280
+    },
+    {
+      "file": "img/nails-green.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/6e514574-285a-4e6c-936d-83d247dd83f6.jpg",
+      "credit": "Фотография от владельца",
+      "width": 864,
+      "height": 1184
+    },
+    {
+      "file": "img/nails-ring.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/ae391b0e-4ea0-467c-8401-bb9ed75f9285.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1050,
+      "height": 1400
+    }
+  ],
+  "estetika": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560072233945_c19b.jpg",
+      "credit": "Фотография от владельца",
+      "width": 934,
+      "height": 1400
+    },
+    {
+      "file": "img/hair.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/26ade102-e161-48fd-8254-af46bea30660.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/nails-green.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560173155868_cef3.jpg",
+      "credit": "Фотография из отзывов",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "file": "img/nails-dark.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560053902323_5f07.jpg",
+      "credit": "Фотография от владельца",
+      "width": 816,
+      "height": 747
+    },
+    {
+      "file": "img/hair2.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/15/2111062373356988_02fe.jpg",
+      "credit": "Фотография от владельца",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "img/hair3.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/0bda8a8a-1767-4433-acd1-1c2628324431.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    }
+  ],
+  "krasivye-lyudi": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560070096415_082c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "file": "img/hair.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/148b006e-f147-4fb9-86dc-6dd263bb344f.jpg",
+      "credit": "https://i.photo.2gis.com/logo/2gis.png",
+      "width": 1400,
+      "height": 1400
+    },
+    {
+      "file": "img/men.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560094798618_08f0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/lashes.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/4aee8693-3212-4a62-961c-8a0a659005b6.jpg",
+      "credit": "https://i.photo.2gis.com/logo/2gis.png",
+      "width": 1320,
+      "height": 1320
+    },
+    {
+      "file": "img/peel.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/f84b0fb3-19ed-49e2-88ca-16fff2c6d967.jpg",
+      "credit": "https://i.photo.2gis.com/logo/2gis.png",
+      "width": 1320,
+      "height": 1320
+    },
+    {
+      "file": "img/curls.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560094798660_0b79.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/brows.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560070096415_082c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 640,
+      "height": 640
+    }
+  ]
+}
