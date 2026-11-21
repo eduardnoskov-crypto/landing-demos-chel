@@ -245,6 +245,20 @@
       "credit": "Фотография от владельца",
       "width": 640,
       "height": 640
+    },
+    {
+      "file": "img/braids.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/74804166-2308-4e96-8885-c667e4493cba.jpg",
+      "credit": "Фотография из социальных сетей",
+      "width": 1440,
+      "height": 1800
+    },
+    {
+      "file": "img/nails-olive.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560070096426_3536.jpg",
+      "credit": "Фотография от владельца",
+      "width": 640,
+      "height": 640
     }
   ]
 }
