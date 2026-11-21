@@ -1,7 +1,7 @@
 # 5 лендингов для салонов красоты Челябинска
 
 Демонстрационные страницы по открытым данным 2ГИС. Не официальные сайты салонов.  
-Данные и фотографии проверены 19.11.2026; права на фотографии принадлежат авторам.
+Данные и фотографии проверены 19–21.11.2026; права на фотографии принадлежат авторам.
 
 ## Страницы
 
@@ -27,6 +27,14 @@ Pinterest использовали как источник композицио�
 8. [Editorial hair salon website](https://www.pinterest.com/pin/869617009326683999/) — editorial-фотография и журнальная сетка.
 9. [Soft neutral beauty & hair studio website](https://www.pinterest.com/pin/elegant-website-design-for-beauty-hair-studios--420031102768801658/) — пудровые оттенки и спокойная иерархия.
 10. [Bold red editorial web design](https://www.pinterest.com/pin/744360644702253337/) — большой контрастный акцент и брутальная сетка.
+
+Дополнительно проверили живую выдачу Pinterest 21.11.2026:
+
+- [Beauty salon — Max Mikhailov](https://ru.pinterest.com/pin/691865561524253634/) — тёплый бежевый editorial, огромная антиква, предметная фотография.
+- [Beauty Spa — Lumière Wellness UI](https://ru.pinterest.com/pin/1141169993127510767/) — мягкий бежевый Spa, сетка услуг и блок записи.
+- [Modern beauty website, pink & green](https://ru.pinterest.com/pin/874120608946402286/) — розово-зелёный постер, крупная типографика и коллаж.
+- [Hair Salon — Webflow, dark & gold](https://ru.pinterest.com/pin/940196859752661893/) — тёмный первый экран, золото, «Your Hair. Your Style. Your Confidence.».
+- [Blush pink skincare salon](https://ru.pinterest.com/pin/286119382574145173/) — пудрово-розовая палитра и спокойный beauty-ритм.
 
 ## Что взяли из референсов
 
