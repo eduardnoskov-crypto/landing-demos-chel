@@ -260,5 +260,725 @@
       "width": 640,
       "height": 640
     }
+  ],
+  "ulyana": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560106209055_cd0e.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/15/2111062345466969_a93d.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/15/2111062345467002_6aa1.jpg",
+      "credit": "Фотография от владельца",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560061808627_a7d5.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560080934971_f972.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560060868193_7f3d.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/42ef0f8d-1efb-4f69-babc-01b439d51ac1.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1199,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/aec05419-b12f-44f1-8e38-37bbd1ba74fe.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1201,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560106209055_cd0e.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/596dff0c-67a1-4040-9b6b-62764239eef0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "shilenkova": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560164409843_3bda.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560113224781_805a.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 1588
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/d23ac375-6254-41d9-98df-75c46d9eb9f7.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560164409843_3bda.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/51102a28-5a62-485a-a2bf-1b4184016c35.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/faad2492-6dfe-437f-afa0-ba71830b7522.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560074833326_5c23.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560113224996_ff1b.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1107,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560074833808_faff.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560127510450_25e6.jpg",
+      "credit": "Фотография от владельца",
+      "width": 820,
+      "height": 1094
+    }
+  ],
+  "dar": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560071582327_163f.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560071582327_163f.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1280,
+      "height": 1218
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560071582330_b1b0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 810,
+      "height": 1080
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560071582331_6119.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1004,
+      "height": 1080
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/3eed28fd-c2dd-46c8-9ce0-e1e59b86483c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560086085484_c3f4.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560084449765_1a60.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/f6db2bf0-a08b-43e2-b297-9ab1eed12a35.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/a98f358d-b80e-4e74-ad94-05d664287dab.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/e08b7e80-ad77-4648-8366-5c3d33a02ca8.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 960
+    }
+  ],
+  "marina": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560082893809_78e7.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/15/2111062340715973_d58c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/4dc3eb2b-b969-4175-9abb-3b74261f4241.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/b85f5530-7316-4d34-8aba-fc36e16f04ef.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/af971deb-6947-4fca-ab71-b3b1de6e2b95.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/1616cce3-04e1-4905-9dbd-2a5faf76d34a.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1199,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560082893809_78e7.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560084892536_c165.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1017,
+      "height": 1017
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/510b3bfa-7a25-44ac-afbc-e55bad755827.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560082333947_da82.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "elleon": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560171460010_40b0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560097010807_b8c2.jpg",
+      "credit": "Фотография от владельца",
+      "width": 971,
+      "height": 1280
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560097010622_c4a6.jpg",
+      "credit": "Фотография от владельца",
+      "width": 961,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560171459346_0054.jpg",
+      "credit": "Фотография от владельца",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560097010615_5b39.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/b817607a-18c2-4103-bbc8-00a31b1f10ff.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560171460010_40b0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/75c31351-2503-433f-b0a8-6c37d5a82b95.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/0/30258560171458812_21d6.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560097010805_73ac.jpg",
+      "credit": "Фотография от владельца",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "hochu-eshe": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560174340537_4c26.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560174340537_4c26.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560174340569_c4b4.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/6e0c7b87-b124-4c0f-a5f3-3394d652570d.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560173793387_5126.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1125,
+      "height": 1406
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560070980243_e983.jpg",
+      "credit": "Фотография от владельца",
+      "width": 719,
+      "height": 746
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560174340724_a7ad.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560174340155_67a0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1024,
+      "height": 1280
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560070979958_3720.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560173794089_71ad.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1280,
+      "height": 1280
+    }
+  ],
+  "diva": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560094156335_612a.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560055345119_f949.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560055345102_6151.jpg",
+      "credit": "Фотография от владельца",
+      "width": 750,
+      "height": 741
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560077566232_9904.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560099920033_daac.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560077566235_d298.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560077566230_a335.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560055345196_475b.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560094156335_612a.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560077566234_8465.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1198,
+      "height": 1600
+    }
+  ],
+  "wax-bar": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/a6c8507c-0bc5-457d-a49a-af0a59cfc189.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/f2b0e8e9-3350-49fa-a215-929d62b9839e.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/6b34c94c-d20e-4e10-99d6-139456940675.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/e7105c96-ba01-47e3-a7df-8bd0a6ba9f3c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/69bb407c-2caa-41c4-a439-c59c151f7242.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 957
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/25428d2d-b7ce-4226-aa15-4d1f27d5758b.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 958
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/a6c8507c-0bc5-457d-a49a-af0a59cfc189.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/1763e6e5-26ca-49ec-9680-502c1b6480df.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/e7451f04-a51a-4a66-95b4-c33b07d87198.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/35d88291-8a73-4570-b6ef-278c854c1cca.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1440,
+      "height": 961
+    }
+  ],
+  "milk": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560100726907_37d1.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/a25969f9-7bef-4561-ad68-dd68f1914a65.jpg",
+      "credit": "Фотография от владельца",
+      "width": 943,
+      "height": 960
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/d31ec592-47ab-4552-bb1e-d7e6bd0fa7aa.jpg",
+      "credit": "Фотография от владельца",
+      "width": 926,
+      "height": 922
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/7753f2fe-387c-4f4d-bd10-b17e02b3133e.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/a8519901-dc25-4ff2-bef2-927a521741cd.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/9d0f90a4-0f59-43e1-893b-e9512dbb7d64.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/21affe13-eb2e-4c0e-9ff6-0dd129f305e0.jpg",
+      "credit": "Фотография от владельца",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/9ff8ebd1-6e7b-4944-a974-17b407189351.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560100726907_37d1.jpg",
+      "credit": "Фотография от владельца",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560103399528_6009.jpg",
+      "credit": "Фотография от владельца",
+      "width": 750,
+      "height": 753
+    }
+  ],
+  "maavi": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/6f4467e0-31b1-466a-ba44-a60be8c44abf.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/38c0e4ba-542d-44ee-93fb-8fbb6efaa3ae.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/e286381d-3cf6-4ce3-9f21-f8c5da309de9.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/3dd020b7-2997-4bb9-9a3a-803f46edd43b.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/c8c9f62d-5e5b-4325-8746-d47701c42415.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1309,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/40c0cb45-9a4e-4749-a6c1-3d1ecf2edd9d.jpg",
+      "credit": "Фотография от владельца",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/8a86d60d-4f94-4431-9e88-2f4f50c3408c.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/2aa15200-ef4e-4ac7-bc98-0e31c6f4097a.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/6f4467e0-31b1-466a-ba44-a60be8c44abf.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1179,
+      "height": 1532
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/1fe7b4ae-da84-4809-be1c-c2f3e921d807.jpg",
+      "credit": "Фотография от владельца",
+      "width": 1200,
+      "height": 1600
+    }
   ]
 }
