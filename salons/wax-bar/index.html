@@ -46,6 +46,8 @@ button{font:inherit;color:inherit}
 .callbar{position:fixed;left:12px;right:12px;bottom:12px;z-index:80;display:flex;align-items:center;justify-content:center;min-height:52px;background:var(--accent);color:#fff;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;box-shadow:0 12px 30px rgba(0,0,0,.24)}
 @media(min-width:860px){.callbar{display:none}}
 @media(max-width:640px){.wrap{width:calc(100% - 28px)}.foot{padding-bottom:96px}}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}}
 
 
 :root{--ink:#33211b;--paper:#fbf4ef;--accent:#a94d35;--nude:#e8c9b8;--sand:#d9b29e;--line:rgba(51,33,27,.18)}
