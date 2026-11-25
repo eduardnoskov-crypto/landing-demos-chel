@@ -980,5 +980,928 @@
       "width": 1200,
       "height": 1600
     }
+  ],
+  "nogotochki": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560138071147_414d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560050080345_8f57.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/15/2111062360892765_1ba0.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 949,
+      "height": 949
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560138071147_414d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/78e7dd2e-4aa0-4465-8e98-ed395090c7cb.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560102852261_b08c.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 785,
+      "height": 785
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/e4320396-34b4-4168-806c-d9200dfd1308.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1209,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560068409926_23db.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 828,
+      "height": 800
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560138071131_17ef.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560068409920_7dc4.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1070,
+      "height": 952
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560050078869_cc3b.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/0/30258560138071272_a695.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/46933d28-a282-4756-9485-8ba2ea60c339.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    }
+  ],
+  "la-fam": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560072022502_e4ad.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/fa558149-d7e4-4380-8df5-933d6b1f7e26.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1067,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560095333159_bbbe.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 980,
+      "height": 653
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560095910935_5e39.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 980,
+      "height": 653
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560095421265_ca6d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 979,
+      "height": 653
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560095041988_aae2.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560089114536_bd10.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/d00a81c7-886a-47f8-9b48-9e985cc0914e.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560095421268_f091.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 980,
+      "height": 653
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/0/30258560095169480_08ae.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 797,
+      "height": 873
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560072022502_e4ad.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1104,
+      "height": 1472
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560072022512_a832.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/0/30258560072022490_48ff.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1104,
+      "height": 1472
+    }
+  ],
+  "siluet": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560111384279_6a79.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/73289c33-c486-46ca-b0fa-8d145eaf1e45.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560111384279_6a79.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560113148298_850e.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1139,
+      "height": 1167
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560083488068_46f9.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/08c48635-b99f-4710-8f9e-46c99682eb87.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/3ad02bb4-7a48-4eec-92b6-5b596d0c0a4f.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/1e4c0fba-721d-47b4-8ee0-013e2428311f.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/bbbc7e10-bc70-492a-b2b1-e24985732936.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1202,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560090661922_4beb.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560111297931_6e0e.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560089780856_3b83.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/23832c16-da0e-4d83-80f3-7997ab311841.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 901,
+      "height": 1600
+    }
+  ],
+  "elegiya": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/38cb35f5-7f27-4751-934a-b6054f1f4fc8.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/38cb35f5-7f27-4751-934a-b6054f1f4fc8.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i6.photo.2gis.com/images/branch/0/30258560052867738_b331.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/86d2aec5-b366-4f4d-8f25-6ddc70889ea7.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i2.photo.2gis.com/images/branch/0/30258560052867743_a2b2.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/b2ebe0a6-8035-4ba1-a99e-7425c09f14a5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i0.photo.2gis.com/images/branch/0/30258560051561484_f7ee.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/8a70cd7f-42af-4b58-835e-d9ee5904c219.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1500
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560098516048_dbdb.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 853,
+      "height": 1280
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/3ce23040-5e17-46c8-9048-ef1fb0575a9b.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1276
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560098515690_0feb.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/d097ae5a-597c-44ac-9d14-605c9902b813.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1125
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/44a73116-f222-45be-bb26-5fe37dd51e30.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1500
+    }
+  ],
+  "zolotoe-runo": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/e1b5a225-dfa8-4b09-8d82-a1a7a43c7f77.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/e536a712-4868-473e-bd87-906672c95bc2.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/072d69e7-7f5b-422c-8118-a843bf3f2cfa.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/e1b5a225-dfa8-4b09-8d82-a1a7a43c7f77.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/25cda5fa-393c-4a6e-be67-954d71d4a454.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1110,
+      "height": 1280
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/b7fd2e70-1445-49e9-b207-e30789a3a170.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/5a73cf3c-09d1-415c-aa94-88370cb75aaa.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/ca74c1ac-c856-4a0f-a65f-88de38e66ca7.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/3d7fb1ed-3058-4843-83d1-e514eae13e0b.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/b5049c81-da6f-45ad-9b3d-8de7397caa82.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/e4722134-0c1a-405f-afb0-83d73fb7ae38.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1180,
+      "height": 1474
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/f819f890-a7bc-43bc-9ae1-4785c95f9681.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/9b9be573-c17e-4a98-b507-258617ef3fc4.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    }
+  ],
+  "krasivye-volosy": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560167035794_2da6.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/ab4ac0e9-6ea3-4ab4-ae61-deff98aa27af.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560167035794_2da6.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/35bf3139-d6fe-47ff-8f23-c6f1667883a7.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/44697b36-7132-4684-97de-d4838c2ef0a5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/f7e7cd3e-385c-4f71-a754-3e3929e17f7e.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/eafea858-ab47-4daf-88b4-136d9952f09b.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/2be1acaf-1fe4-4992-a26f-83a6f41b74ba.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/2e7681e9-4c52-4bff-887a-4bdbf7a8e837.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/52cdd5f1-ec1f-4d33-b897-56ec09513f38.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 941,
+      "height": 1412
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/1afe3e3a-d4f0-43db-ba9b-f0037d0418d6.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/e3b7cb26-b55f-49d8-b89c-1f55dbdb5459.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/db67ff45-1537-4844-a465-421c50f9cfc5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "lana": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/be593f85-047e-428b-897e-01e49bec8e96.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/56be988e-33fa-4b3f-b996-31d4c6f86d82.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/be593f85-047e-428b-897e-01e49bec8e96.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/852628fd-8b0c-46a4-aeaa-7e7d6bb14cd9.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/c2923235-7ccd-4638-92a9-87b3c19a74ba.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/d59b3682-91ac-4415-937a-5b5ac4428e12.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/da41b0f3-fa93-434e-90ec-30dfacdffb20.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/29c94fe6-b299-4395-a705-6d066c8ed969.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/94d723b9-5d8f-4b22-90e0-d11ec08a6aa0.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/15/2111062346964019_0e39.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/15/2111062346964020_8bf8.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/b1be32ae-1dbb-46ba-b534-598c43c900dd.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/1c65e06e-5b23-4dc1-9045-d7442ca10f9e.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    }
+  ],
+  "emerald": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/5728ef33-d3cf-48b9-873e-f4ea3bb8e4f5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/3c07878f-a9da-43af-a73d-9c24f3c1bf83.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/5728ef33-d3cf-48b9-873e-f4ea3bb8e4f5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/d1c3e9c6-65a3-4929-b8a8-fca2fb0b2a40.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/3814ee90-c54e-4737-b8c3-688c099437f3.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i8.photo.2gis.com/photo-gallery/3d7e3963-37e5-4b01-8d99-a5506d4c1465.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/e883aad7-898a-4b36-ab3e-c6c3e6896517.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 955,
+      "height": 1280
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/083d19dc-ce46-41f3-a947-04bdd8b154e0.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 641,
+      "height": 800
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/40218b80-91fe-4a36-841f-bd8f4c11e4a9.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1280,
+      "height": 854
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/631f9687-be45-4ca3-80d3-00db26e54859.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1024,
+      "height": 1365
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/1bffbc9a-1933-42c3-9761-932047b24be2.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i2.photo.2gis.com/photo-gallery/79f63fd6-a63a-4313-89ae-f6da5ddb7ba1.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i9.photo.2gis.com/photo-gallery/b6b12b3e-ffca-475d-8adc-9338081b6f2c.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "est-kosmetologiya": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/361a51c5-b295-4fcd-ab08-23281d115da9.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/361a51c5-b295-4fcd-ab08-23281d115da9.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 914,
+      "height": 1600
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i5.photo.2gis.com/photo-gallery/7a0f1e37-149e-4226-989f-8b86115cae21.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 910,
+      "height": 1600
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/4d0ef65e-b72b-488e-a485-eeab17b5da5d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 914,
+      "height": 1600
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/271a5f90-fdf6-4152-bf0c-b4c6f8ef1d31.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 905,
+      "height": 1600
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/0cf89fbe-3cff-4a97-969c-7c8ad011e65a.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/dfbcdb4f-ba02-48b5-b49f-e501ba1cb84d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i3.photo.2gis.com/photo-gallery/e082ba5b-460f-402b-bd2d-dfbd5f0637b4.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/d2d9b8a7-120a-4c76-a428-585a1e361aec.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i0.photo.2gis.com/photo-gallery/b74df296-67e8-482c-9bdd-97c25aace4ba.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 901,
+      "height": 1600
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i4.photo.2gis.com/photo-gallery/3fe13b59-dee9-43bb-b8d5-80c02a9c43a0.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 912,
+      "height": 1600
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i6.photo.2gis.com/photo-gallery/ba0993cb-4466-4116-a770-a581d6085aea.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 914,
+      "height": 1600
+    }
+  ],
+  "epilprof": [
+    {
+      "file": "img/hero.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560086100959_51bd.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1400,
+      "height": 1000
+    },
+    {
+      "file": "img/p1.jpg",
+      "source": "https://i1.photo.2gis.com/photo-gallery/3c74a48e-690b-47ad-88ff-27140c2cc25d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "file": "img/p2.jpg",
+      "source": "https://i5.photo.2gis.com/images/branch/0/30258560086100959_51bd.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "file": "img/p3.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/0/30258560055659750_88c5.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1079,
+      "height": 721
+    },
+    {
+      "file": "img/p4.jpg",
+      "source": "https://i1.photo.2gis.com/images/branch/15/2111062356263104_d437.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "file": "img/p5.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/0/30258560055659856_3ac4.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1064,
+      "height": 1600
+    },
+    {
+      "file": "img/p6.jpg",
+      "source": "https://i4.photo.2gis.com/images/branch/0/30258560058286806_d08d.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "file": "img/p7.jpg",
+      "source": "https://i7.photo.2gis.com/images/branch/0/30258560055659854_21fd.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1011,
+      "height": 1600
+    },
+    {
+      "file": "img/p8.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/0/30258560055659758_bd07.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1054,
+      "height": 1593
+    },
+    {
+      "file": "img/p9.jpg",
+      "source": "https://i9.photo.2gis.com/images/branch/15/2111062356263109_a0df.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "file": "img/p10.jpg",
+      "source": "https://i3.photo.2gis.com/images/branch/15/2111062355908071_ee79.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 720,
+      "height": 960
+    },
+    {
+      "file": "img/p11.jpg",
+      "source": "https://i8.photo.2gis.com/images/branch/15/2111062356263083_6883.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "file": "img/p12.jpg",
+      "source": "https://i7.photo.2gis.com/photo-gallery/350c9c74-2a05-438f-b24b-d7f4260490e6.jpg",
+      "credit": "Фотография из открытой карточки 2ГИС",
+      "width": 1080,
+      "height": 1350
+    }
   ]
 }
